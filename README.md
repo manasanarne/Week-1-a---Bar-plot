@@ -3,7 +3,7 @@ Rollno <- c("Y20CS110","Y20CS124","Y20CS135","Y20CS176","Y20CS093")
 Gender <- c("Female","Female","Female","Female","Female")
 Marks <-c(9,3,6,8,9)
 Fee <-c(69400,57892,58903,69400,67390)
-Section <-c("C","C","C","B","B")
+Section <-c("B","B","C","C","B")
 
 rvrstudents <-data.frame(Names,Rollno,Gender,Marks,Fee,Section)
 rvrstudents
